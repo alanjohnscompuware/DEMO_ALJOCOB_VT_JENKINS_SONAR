@@ -1,0 +1,42 @@
+11:39:59.060 INFO      TOPAZ            ***************************************
+11:39:59.061 INFO      TOPAZ            ** Execution from Topaz with options **
+11:39:59.062 INFO      TOPAZ            ***************************************
+11:39:59.062 INFO      TOPAZ            Using repository: false
+11:39:59.062 INFO      TOPAZ            ***************************************
+11:39:59.066 INFO      Engine           Test Scenario execution started
+11:39:59.068 INFO      Engine           Using context settings:
+  Engine Version                : 20.12.2.v20221024-2031_109
+  Environment id                : 198.147.191.81:16196
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 198.147.191.81
+  Server port                   : 16196
+  Job execution timeout seconds : 600
+  Job info interval seconds     : 3
+  Socket read timeout           : 30
+  Encoding                      : ISO8859-1
+  Codepage                      : 1047
+  Host user Id                  : HUK0320
+  Use Repository Server         : false
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+11:39:59.068 INFO      Engine           Setting variables from context and context data extensions
+11:39:59.068 INFO      Engine             id: environmentId      value: 198.147.191.81:16196
+11:39:59.071 INFO      Engine             id: environmentType    value: BATCH
+11:39:59.072 INFO      Engine             id: userId             value: HUK0320
+11:39:59.072 INFO      Engine             id: accountingInfo     value: 
+11:39:59.072 INFO      Engine             id: datasetHQL         value: 
+11:39:59.074 INFO      Unittest         Interpreting Unittest of module: ALJOCOB testscenario path: ALJOCOB_Scenario.testscenario
+11:39:59.798 INFO      Unittest         Using JCL skeleton to submit JCL
+11:40:06.781 INFO      CWCC             Sending Job execution request to Host 
+11:40:12.253 INFO      CWCC             Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job HUK0320A(J0333420) ended with return code: 0000
+  Job name       : HUK0320A
+  Job id         : J0333420
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+11:40:26.172 INFO      Unittest         Execution completed
+11:40:26.172 INFO      Engine           Test Scenario execution ended

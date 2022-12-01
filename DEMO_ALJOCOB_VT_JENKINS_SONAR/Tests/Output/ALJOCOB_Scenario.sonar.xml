@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.12.2.v20221024-2031_109?>
+<!--Topaz for Total Test 20.12.2.v20221024-2031_109 30-Nov-2022 11:40:26-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\DEMO_ALJOCOB_VT_JENKINS_SONAR\Tests\Scenarios\ALJOCOB_Scenario.testscenario">
+    <testCase name="Unit Test: Test Case: ALJOCOBCase1 for program: ALJOCOB" duration="0" />
+  </file>
+</testExecutions>
